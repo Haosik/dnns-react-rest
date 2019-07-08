@@ -1,5 +1,6 @@
 All the default create-react-app comands 🤖 :
-"npm start", "npm build", "npm test"
+Start with `npm i`, next steps are
+`npm start` or `npm test`.
 
 Browsers support 💀:
 IE 11
