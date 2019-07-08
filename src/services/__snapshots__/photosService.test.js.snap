@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getPhotosFromApi should make api call and return data if api responded 1`] = `
+Object {
+  "albumId": 1,
+  "id": 1,
+  "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+  "title": "accusamus beatae ad facilis cum similique qui sunt",
+  "url": "https://via.placeholder.com/600/92c952",
+}
+`;
