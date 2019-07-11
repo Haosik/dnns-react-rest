@@ -2,7 +2,7 @@ import { sortByAlbum, getPhotosFromApi } from './photosService';
 
 describe('getPhotosFromApi', () => {
   it('should make api call and return data if api responded', async () => {
-    expect(await getPhotosFromApi(1)).toMatchSnapshot();
+    expect(await getPhotosFromApi()).toMatchSnapshot();
   });
 });
 
