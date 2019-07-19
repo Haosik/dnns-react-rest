@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`getPhotosFromApi should make api call and return data if api responded 1`] = `
+exports[`getPhotosFromApi should make API call and return data if api responded 1`] = `
 Array [
   Object {
     "albumId": 1,
